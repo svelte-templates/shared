@@ -1,0 +1,9 @@
+body {
+    background-color: whitesmoke;
+}
+
+main {
+    max-width: 38rem;
+    padding: 1.5rem;
+    margin: auto;
+}
